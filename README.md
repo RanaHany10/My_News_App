@@ -10,6 +10,8 @@ The "**Latest News**" website is a platform dedicated to providing up-to-date ne
 * User can search for news by certain topic/query
 * For any of the above features, the user can sort the results by date published, relevancy to search keyword, popularity of source
 
+https://github.com/RanaHany10/My_News_App/assets/115092108/8d6a4d39-4c88-40ef-a8b4-1da44464498d
+
 ### Technologies Used
 * HTML , CSS and Javascript using News API
 
